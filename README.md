@@ -6,3 +6,5 @@ Video Depth Estimation
 Yolo v3, for image classification
 
 -- https://github.com/ayooshkathuria/pytorch-yolo-v3
+
+-- https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/
