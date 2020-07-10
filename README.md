@@ -12,3 +12,7 @@ Yolo v3, for image classification
 Zoox 3d classification?
 
 -- https://zoox.com/ <----- video
+
+show contour
+
+-- https://www.thepythoncode.com/article/contour-detection-opencv-python
