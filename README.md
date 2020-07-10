@@ -16,3 +16,8 @@ Zoox 3d classification?
 show contour
 
 -- https://www.thepythoncode.com/article/contour-detection-opencv-python
+
+
+Own Haar Cascade Object Detector
+
+-- https://www.youtube.com/watch?v=ydSXgBZ1ybk
