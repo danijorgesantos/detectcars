@@ -32,6 +32,8 @@ Yolo v3, for image classification
 
 -- https://github.com/ayooshkathuria/pytorch-yolo-v3
 
+-- https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+
 -- https://arxiv.org/abs/2004.15021   <------ paper
 
 
