@@ -1,22 +1,18 @@
-Video Depth Estimation
+ui
 
---  https://www.youtube.com/watch?v=QSVrKK_uHoU
-
-
-Yolo v3, for image classification
-
--- https://github.com/ayooshkathuria/pytorch-yolo-v3
-
--- https://arxiv.org/abs/2004.15021   <------ paper
+-- http://www.willberger.org/wp-content/uploads/sites/17/2018/01/comuter-vision.jpg
 
 Zoox 3d classification?
 
 -- https://zoox.com/ <----- video
 
+Video Depth Estimation
+
+--  https://www.youtube.com/watch?v=QSVrKK_uHoU
+
 show contour
 
 -- https://www.thepythoncode.com/article/contour-detection-opencv-python
-
 
 Haar Cascade Object Detector, Paul Viola and Michael Jones
 
@@ -28,8 +24,15 @@ Haar Cascade Object Detector, Paul Viola and Michael Jones
 
 -- http://amin-ahmadi.com/cascade-trainer-gui/
 
-ui
+Yolo v3, for image classification
 
--- http://www.willberger.org/wp-content/uploads/sites/17/2018/01/comuter-vision.jpg
+-- https://github.com/ayooshkathuria/pytorch-yolo-v3
+
+-- https://arxiv.org/abs/2004.15021   <------ paper
+
+
+
+
+
 
 
