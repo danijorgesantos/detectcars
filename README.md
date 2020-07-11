@@ -18,6 +18,8 @@ show contour
 -- https://www.thepythoncode.com/article/contour-detection-opencv-python
 
 
-Own Haar Cascade Object Detector
+Haar Cascade Object Detector
 
 -- https://www.youtube.com/watch?v=ydSXgBZ1ybk
+
+-- http://www.willberger.org/cascade-haar-explained/
