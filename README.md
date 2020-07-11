@@ -24,6 +24,10 @@ Haar Cascade Object Detector, Paul Viola and Michael Jones
 
 -- http://amin-ahmadi.com/cascade-trainer-gui/
 
+car data set
+
+-- https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
 Yolo v3, for image classification
 
 -- https://github.com/ayooshkathuria/pytorch-yolo-v3
