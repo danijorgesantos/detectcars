@@ -40,6 +40,10 @@ CNN´s
 
 -- https://www.youtube.com/watch?v=FmpDIaiMIeA
 
+Bounding Box Regression
+
+-- https://www.youtube.com/watch?v=bcGtNdTzdkc
+
 
 
 
