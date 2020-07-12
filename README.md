@@ -44,6 +44,10 @@ Bounding Box Regression
 
 -- https://www.youtube.com/watch?v=bcGtNdTzdkc
 
+3d three.js example car, code in debuger tools with textures
+
+-- http://vr.ff.com/us/
+
 
 
 
