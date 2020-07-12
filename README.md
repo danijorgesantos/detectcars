@@ -36,6 +36,8 @@ Yolo v3, for image classification
 
 -- https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 
+-- https://pjreddie.com/media/files/papers/YOLOv3.pdf <---- paper
+
 
 CNN´s
 
