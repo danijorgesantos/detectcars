@@ -28,15 +28,22 @@ width10 = width / 10
 height10 = height / 10
 
 print('width x10%', width10)
-print('height x10', height10)
+print('height x10%', height10)
 
 
-#c1 car
-#c2 pedestrian
-pc = 1
-bx = 
+columns = img.shape[0]
+rows = img.shape[1]
+
+pixel = img[1,1]
+print(pixel)
+
+startColumn = 0
+startRow = 0
+
+for i in range(startColum, rows):
+    for j in range(startRow, columns):
+        print(img[j,i])
+startColumn = startColumn + width10
+startRow = startRow + height10
 
 
-
-
-y = [ pc, bx, by, bh, bw, c1, c2]
