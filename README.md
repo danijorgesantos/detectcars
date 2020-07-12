@@ -48,6 +48,10 @@ Bounding Box Regression
 
 -- http://vr.ff.com/us/
 
+pascal questions
+
+-- http://lear.inrialpes.fr/RecogWorkshop08/documents/everingham.pdf
+
 
 
 
