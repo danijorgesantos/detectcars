@@ -31,3 +31,12 @@ print('width x10%', width10)
 print('height x10', height10)
 
 
+#c1 car
+#c2 pedestrian
+pc = 1
+bx = 
+
+
+
+
+y = [ pc, bx, by, bh, bw, c1, c2]

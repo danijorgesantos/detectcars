@@ -34,6 +34,8 @@ Yolo algorithm
 
 -- https://www.youtube.com/watch?v=gKreZOUi-O0
 
+-- https://arxiv.org/pdf/1506.02640.pdf <------ paper
+
 Yolo v3, for image classification
 
 -- https://github.com/ayooshkathuria/pytorch-yolo-v3
