@@ -36,6 +36,10 @@ Yolo v3, for image classification
 
 -- https://arxiv.org/abs/2004.15021   <------ paper
 
+CNN
+
+-- https://www.youtube.com/watch?v=FmpDIaiMIeA
+
 
 
 
