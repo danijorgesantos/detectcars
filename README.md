@@ -30,6 +30,10 @@ car data set
 
 -- https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
+Yolo algorithm
+
+-- https://www.youtube.com/watch?v=gKreZOUi-O0
+
 Yolo v3, for image classification
 
 -- https://github.com/ayooshkathuria/pytorch-yolo-v3
