@@ -10,6 +10,8 @@ Video Depth Estimation
 
 --  https://www.youtube.com/watch?v=QSVrKK_uHoU
 
+-- https://arxiv.org/abs/2004.15021   <------ paper
+
 show contour
 
 -- https://www.thepythoncode.com/article/contour-detection-opencv-python
@@ -34,7 +36,6 @@ Yolo v3, for image classification
 
 -- https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 
--- https://arxiv.org/abs/2004.15021   <------ paper
 
 CNN´s
 
