@@ -30,6 +30,10 @@ car data set
 
 -- https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
+CNN 
+
+-- https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
+
 Yolo algorithm
 
 -- https://www.youtube.com/watch?v=gKreZOUi-O0

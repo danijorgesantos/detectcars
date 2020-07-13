@@ -1,3 +1,4 @@
+# --- image
 img = cv2.imread('rsz_car.jpg', cv2.IMREAD_UNCHANGED)
  
 # get dimensions of image
@@ -39,11 +40,10 @@ startRow = startRow + height10
 
 # input
 
-# --- image
 
 # backbone
 
-# --- cutmix and mosaic , csp darknet 53, darknet 52 ? 
+# --- cutmix and mosaic , csp darknet 53, darknet 52 ? cnn, all of the rest is to enchance the cnn performance
 
 # neck
 
