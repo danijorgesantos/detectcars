@@ -48,6 +48,8 @@ Yolo v4
 
 -- https://www.youtube.com/watch?v=_JzOFWx1vZg&t=618s
 
+-- https://mc.ai/yolov4-2/
+
 
 CNN´s
 
