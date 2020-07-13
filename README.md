@@ -44,6 +44,10 @@ Yolo v3, for image classification
 
 -- https://pjreddie.com/media/files/papers/YOLOv3.pdf <---- paper
 
+Yolo v4
+
+-- https://www.youtube.com/watch?v=_JzOFWx1vZg&t=618s
+
 
 CNN´s
 
