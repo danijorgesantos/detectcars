@@ -38,6 +38,8 @@ Yolo algorithm
 
 -- https://www.youtube.com/watch?v=gKreZOUi-O0
 
+-- https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/ <----- python implemetation using keras
+
 -- https://arxiv.org/pdf/1506.02640.pdf <------ paper
 
 Yolo v3, for image classification
