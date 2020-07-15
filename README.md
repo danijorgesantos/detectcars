@@ -34,6 +34,8 @@ CNN
 
 -- https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
 
+-- https://www.youtube.com/watch?v=H-HVZJ7kGI0&t=1152s    MIT
+
 Yolo algorithm
 
 -- https://www.youtube.com/watch?v=gKreZOUi-O0
